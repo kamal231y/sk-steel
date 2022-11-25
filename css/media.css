@@ -1,0 +1,172 @@
+@media screen and (min-width :1199px) and (max-width: 1366px) {
+	
+	
+}
+
+@media screen and (min-width: 992px) and (max-width: 1198px) {
+	
+	
+}
+
+/********Sm-start*******/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	
+	
+}
+
+@media screen and (max-width: 980px) {
+	
+}
+
+@media screen and (max-width: 768px) {
+	
+	
+}
+
+@media screen and (min-width: 480px) and (max-width: 766px) {
+	
+	
+}
+
+/********xs-start********/
+@media screen and (max-width: 767px) {
+	.logo {
+	    width: 70%;
+	}
+	.carousel-caption p, .quote a::before, .quote a::after {
+		display: none;
+	}
+	.carousel-caption h3 {
+		font-size: 15px;
+		padding: 5px 5px !important;
+	}
+	.quote {
+		margin-left: 0px;
+	}
+	#about_main, #product_main, #service_main, #why_main {
+		padding: 50px 0;
+	}
+	.inner_product_main {
+		padding: 70px 0 50px 0;
+	}
+	footer {
+		padding: 50px 0 0 0;
+	}
+	.about_detail, .inn_about_dtl {
+		padding-right: 0px;
+	}
+	.about_hed span {
+		font-size: 15px;
+	}
+	.about_hed h1, .inn_about_hed h1, .service_inn_hed h1 {
+		font-size: 25px;
+	}
+	.product_hed h2, #inner_banner_main h2 {
+		font-size: 23px;
+	}
+	.customer h3 {
+		font-size: 21px;
+	}
+	.hm_core_dtl h4 {
+		font-size: 18px;
+	}
+	.brand_hed h4, .contact_detail h4 {
+		font-size: 18px;
+		padding: 10px 0;
+	}
+	.about_hed h5, .product_bx_hed h5, .service_bx_dtl h5, .icon_bx_dtl h5, .foot_hed h5, .ser_hed h5, .contact_right h5 {
+		font-size: 16px;
+	}
+	.about_para a {
+		padding: 6px 25px;
+		margin-bottom: 20px;
+	}
+	.product_bx_main {
+		margin-bottom: 20px;
+	}
+	.service_bx {
+		margin: 20px 0 0 0;
+	}
+	#inner_banner_main {
+		min-height: 150px;
+	}
+	.contact_detail span, .contact_detail span a {
+		font-size: 15px;
+	}
+
+
+	
+	
+	
+}
+
+@media screen and (max-width: 460px) {
+	.product_hed p, .inn_about_hed p {
+		padding: 0px;
+	}
+	.customer img {
+		width: 75px;
+	}
+	#service_main {
+		min-height: auto;
+	}
+	.hm_core_rht {
+		padding-left: 0px;
+		padding-top: 15px;
+	}
+	.icon_bx {
+		width: 55px;
+		height: 55px;
+		line-height: 55px;
+	}
+	.icon_bx img {
+		width: 35px;
+	}
+	.icon_bx_dtl h5 {
+		line-height: 50px;
+	}
+	.copy_dtl p, .design p {
+		text-align: center;
+	}	
+	.inn_about_hed, .service_inn_hed {
+		padding-bottom: 20px;
+	}
+	.about_bx {
+		margin-bottom: 20px;
+	}
+	.about_bx::before {
+		left: -6px;
+		width: 104%;
+	}
+	.logo-wd {
+		width: 49%;
+		float: left;
+	}
+	.contact_box {
+		min-height: auto;
+		padding: 20px 10px 20px;
+		box-shadow: 0 5px 10px rgb(47 91 234 / 14%);
+	}
+	.contact_detail span, .contact_detail span a {
+		font-size: 14px;
+	}
+	.butn-bg {
+		margin-bottom: 15px;
+	}
+
+
+
+	
+	
+}
+
+@media screen and (max-width: 360px) {
+
+	
+	
+}
+
+@media screen and (max-width: 320px) {
+	
+	
+}
